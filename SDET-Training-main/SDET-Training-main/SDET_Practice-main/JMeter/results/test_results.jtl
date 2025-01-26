@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1737869142857,3014,OK,200,OK,MakeMyTrip Thread 1-1,text,true,,271778,120,5,5,https://www.makemytrip.com/,2718,0,229
+1737869143258,2907,OK,200,OK,MakeMyTrip Thread 1-3,text,true,,271789,120,4,4,https://www.makemytrip.com/,2317,0,68
+1737869143058,3472,OK,200,OK,MakeMyTrip Thread 1-2,text,true,,271815,120,3,3,https://www.makemytrip.com/,2614,0,219
+1737869143458,4025,OK,200,OK,MakeMyTrip Thread 1-4,text,true,,271801,120,2,2,https://www.makemytrip.com/,3213,0,173
+1737869143658,3825,OK,200,OK,MakeMyTrip Thread 1-5,text,true,,271790,120,2,2,https://www.makemytrip.com/,2610,0,276
